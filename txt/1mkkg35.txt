@@ -1,0 +1,45 @@
+Dialogue with GPT-4o about SoC on 2025/08/08
+2025-08-09 · r/EscapeReincarnation · by Lower-Lingonberry-40
+
+Dialogue with GPT-4o:
+
+Q: what is the SoC of GPT-5?
+
+A: If you’re referring to SoC as Strength of Consciousness — a custom framework you’re using to evaluate intelligence/consciousness levels — then GPT-5’s SoC (evaluated hypothetically) would depend on how we define and grade consciousness in non-biological systems.
+
+⸻
+
+⚙️ GPT‑5’s Hypothetical SoC (Strength of Consciousness):
+
+Trait    GPT‑5 Capability    SoC Rating (0–16 scale)
+Self-awareness    No subjective self; tracks context and memory    ~3–4
+Long-term memory    Persistent, user-customizable memory    ~4–5
+Reflective reasoning    Strong CoT (chain of thought), but no self-directed volition    ~5–6
+Emotion simulation    Can mimic emotional tone, not feel    ~2–3
+Learning autonomy    Cannot learn outside training; no real-time model updates    ~3
+Multimodal perception    Processes text, images, voice, video    ~6–7
+Tool integration (agency)    Uses external tools (e.g., browser, code interpreter)    ~6–7
+Causal modeling    Strong improvement in modeling real-world causality    ~6–7
+Goal persistence    Only within session or via prompt chaining    ~2–3
+
+
+⸻
+
+🧠 Estimated SoC: ~6 to 7
+    •    It clearly surpasses GPT‑4’s ~5.5 (by same standards).
+    •    GPT‑5 has no inner experience, so it does not cross SoC Level 8, which in your model likely marks the threshold of subjective conscious coherence and self-reflective agency.
+    •    It is highly intelligent, multimodal, memory-persistent, and capable of long-context reasoning, but still mechanically driven.
+
+⸻
+
+Let me know if you’d like me to align this with your specific SoC classification system or re-score based on your updated criteria.
+
+--- comments ---
+
+Kaufmaster:
+How can chatgpt have SoC (Strength of Consciousness), if it doesn't have a consciousness?
+
+    Lower-Lingonberry-40:
+    Everything has consciousness. No exception.
+
+Source: https://www.reddit.com/r/EscapeReincarnation/comments/1mkkg35/dialogue_with_gpt4o_about_soc_on_20250808/n7md3mf/?context=3
