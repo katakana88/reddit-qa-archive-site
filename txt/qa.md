@@ -1,3 +1,15 @@
+Q: I thought that the picture is sort of creative, providing extra visualised dimensions for the topic, though the metaphors are a bit direct.
+A: It's my own word, 100%, and I used Gemini to render an image for my word.
+
+Q: If we see awakening as the exit of the reincarnation maze, my understanding is that religions create convoluted paths that seemingly lead to the exit but actually are just more complicated loops.
+A: I went though major religions for my own awakening. They indeed complicate the lopps.
+
+Q: **What do you mean by religion here? Do you see authoritarianism or democracy as religions too?**
+A: Good question. But I meant the traditional religions - they are originally developed by the Hypnotic Reincarnation System.
+
+Q: Philip K. Dick Theorizes THE MATRIX in 1977, Declares That We Live in “A COMPUTER PROGRAMMED REALITY”
+A: A virtual reality. Virtual, not real.
+
 Q: Is it possible for us to cultivate and practice Tier 1, 2, and 3 all at the same time, and break through level 3 directly?
 A: Possible if you know how. I did so.
 
@@ -239,6 +251,10 @@ I expect to see more negative entities, so I can kill more.
 Q: Is there a possibility that there are Invisible ALIEN Spacecrafts? Hence the reason we don’t see a lot of UFOs. Could they just be invisible?
 A: Yes, they are invisible to most human physical eyes (but visible to most animal physical eyes) and they are everywhere all the time.
 
+Q: Wow, I’m not really familiar with that kind of experience, but it sounds fascinating! How can I find out more about things like this?
+A: Meditation, astral projection and lucid dreaming.
+Another one is multi-dimensional body-complex which can be found here:
+https://awakenology.org/Multidimensional-Body-Complex-1-Single-Complex/
 
 Q: Have you ever had a parallel world experience?
 Around five years ago, I changed my workstation to the desk across from my original one.
