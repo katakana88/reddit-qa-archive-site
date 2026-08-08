@@ -1,3 +1,15 @@
+Q: Who made the universe? Why is the golden ratio to find in all living beings?
+A: A hundred of small game developer groups made a hundred of small universes as game backgrounds separately, and then agreed mutually to combine them to have formed a larger universe group (containing around 50 medium-sized physical universes) as it is now, and the development is ongoing.
+
+Q: The body produces Bioelectricity, which creates an electromagnetic field with what we can attract through our intentional control of our Bioelectricity/Qi/Prana/Spiritual Chills.
+A: This bio-electromagnetic field is emitted from both the body and the soul. Its spectrum can be scanned to determine SoC via proper scanners with SoC algorithms.
+
+Q: What happens if you don't go into the light?
+Random question.
+People who talk about near-death experiences often say they either went toward the light or came back.
+But what if you did neither? What if you just stayed where you were? Would you get stuck there?
+A: I encountered some of them over the last few decades and found out that some of them kept hiding for long time (stuck there), some got captured after a while, and few got escaped after finding a loophole.
+
 Q: I thought that the picture is sort of creative, providing extra visualised dimensions for the topic, though the metaphors are a bit direct.
 A: It's my own word, 100%, and I used Gemini to render an image for my word.
 
