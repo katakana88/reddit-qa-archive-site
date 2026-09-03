@@ -1,3 +1,13 @@
+Q: Is anyone else grossed out by the constant “we are one consciousness” propaganda
+No, I don’t want to merge with anyone or any so called “source”, I find that idea deplorable and quite frankly disgusting.
+There are so many things in this world that are filthy that I don’t identify with in anyway but most “gurus” keep pushing this idea that everything horrible in this world is our karma to bear since we are all once hive mind, ew just fucking ew, I find that idea totally ridiculous.
+Yet even…
+A: I had the same misunderstanding before I reached this state.
+You’re not merging with anyone or anything.
+It’s more like waking up from the illusion that separation is absolute. Individuality doesn’t necessarily have to disappear just because you recognize that everything is interconnected.
+Being connected ≠ being merged into a hive mind.
+Recognizing the whole ≠ losing yourself in the whole.
+
 Q: Who made the universe? Why is the golden ratio to find in all living beings?
 A: A hundred of small game developer groups made a hundred of small universes as game backgrounds separately, and then agreed mutually to combine them to have formed a larger universe group (containing around 50 medium-sized physical universes) as it is now, and the development is ongoing.
 
