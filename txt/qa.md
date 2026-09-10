@@ -1,3 +1,18 @@
+Q: Life has no meaning at all.
+If you already knew that everything in this world is ultimately empty and completely meaningless—love, sadness, regret, attachment, religion, everything you have ever heard or learned—has no inherent meaning at all. 
+Everything simply arises, exists for a while, and then fades away. That is how it has always been. 
+You are the one who gets to determine the direction of your own life. 
+So, if that is true, where would you choose to take your life? 
+What would you…
+A: **If life has no meaning, then there is no meaning to choose anything, then you can choose anything you want at will, freely, with no reason ever needed, isn’t it?**  
+**Then, isn’t that a true freedom with no strings attached?**
+
+Q: In your opinion, are new souls (atmas) created from time to time?
+I have a doubt about souls (atmas).
+In your opinion, are new souls (atmas) created from time to time?
+Or were all souls created in the beginning of time, and they keep reincarnating until now (unless they have attained liberation(moksha))?
+A: I see new souls being created all the time, every day, every where. Very common, nothing special.
+
 Q: Is anyone else grossed out by the constant “we are one consciousness” propaganda
 No, I don’t want to merge with anyone or any so called “source”, I find that idea deplorable and quite frankly disgusting.
 There are so many things in this world that are filthy that I don’t identify with in anyway but most “gurus” keep pushing this idea that everything horrible in this world is our karma to bear since we are all once hive mind, ew just fucking ew, I find that idea totally ridiculous.
