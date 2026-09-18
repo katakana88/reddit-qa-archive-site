@@ -1,3 +1,24 @@
+Q: "Does anyone else remember a tunnel transition like this? I'm trying to understand if this memory I have is real, or if anyone else has experienced it."
+"I used AI to try and recreate a visual of something I’ve remembered since I was really young. I'm not trying to claim it's anything spiritual or supernatural, I am just genuinely trying to understand if this memory I have is real or how a child's brain forms memories.
+My absolute earliest memory starts in a place like this video—a tunnel…
+A: Yes.
+In my astral projection experiences over several decades, I could see such a tunnel between my physical body and my astral body （a form of soul) during astral projection.
+The tunnel is inside the silver cord connecting the astral body (soul) and the physical body, as seen through my third vision, observing the astral body and the physical body from a top view.
+Streams of consciousness (content of soul) flow inside the tunnel between the astral body and the physical body.
+When 80% or more of the conscious streams inside the tunnel are flowing toward the astral body, the astral body stays steadily outside the physical body.
+When 60% or less are flowing toward the astral body, the astral body becomes unsteady.
+When 40% or less are flowing toward the astral body, the astral body starts to feel as if it is being sucked back toward the physical body.
+I find that strong conscious intention is the key to controlling the direction of the conscious streams, and also the key to maintaining the stability of the astral projection.
+Another experience:
+My astral body has entered what I perceive as black holes several times. I purposely encouraged myself to experience what a black hole is, out of curiosity (after I practiced to overcome death).
+Inside these experiences, I can also see something tunnel-like, but it is much larger and more complicated than the tunnel inside the silver cord.
+There is another difference: the black-hole tunnels I have experienced appear to be one-way, leading to another world. I haven't experienced a two-way black-hole tunnel yet.
+But this does not mean there are no other types of tunnels.
+I'm also very interested to hear other people's experiences.
+
+Q: NDE survivor told she actually WANTED to be a heroin addict and have both her parents commit suicide, and that if she doesn't go back they will force her to Reincarnate as a baby with an even WORSE LIFE
+A: That old technique of hypnotic reincarnation has been used for centuries: threat.
+
 Q: Life has no meaning at all.
 If you already knew that everything in this world is ultimately empty and completely meaningless—love, sadness, regret, attachment, religion, everything you have ever heard or learned—has no inherent meaning at all. 
 Everything simply arises, exists for a while, and then fades away. That is how it has always been. 
