@@ -1,3 +1,24 @@
+Q: If you get rid of the hate then time totally stalls because you can’t really pass time without attaching to anything in the matrix. I have tried it the hate anger and friction is the only way to defend yourself from an uncontrollable time freeze of torture.
+A: Both time and the need to defend yourself are illusions of the game. Awakening isn’t finding a way to defend yourself from the illusion, but seeing beyond the illusions.
+
+Q: Also if the source is playing games wouldn’t it want to keep the ones who are serious ignorant and full of hope and fake compassion and controlling and policing each the most to keep trapped not the one who would love to play the game because they think it’s funny but is full of hate because there trapped in constant friction generating the hate?
+A: The Source isn’t trying to keep anyone trapped or set anyone free. It respects what you choose to experience, so even hatred, hope, or the desire to keep playing can become part of the game if that’s what you choose.
+
+Q: How is hating friction and being gaslighted not awakened seems like the opposite to me seems like being a asleep is mostly being different to our world like every other human alive and seeing it for what it is and seeing how bad the world is unlike every human alive is awakening that no one has ever achieved and also seeing that it’s fundamentally impossible to get rid of hate as long as there is constant friction that’s fundamentally impossible I guess only the asleep optimistic ones escape
+A: Awakening means escaping the soul-body bond reincarnation, not simply seeing how bad the world is or becoming free from friction. Hatred of friction can itself remain part of the bondage.
+
+Q: If it’s a game do they let a soul out that sees through the hypnosis but is so traumatized because they are so mismatched from everything in the world that there soul will fracture
+A: Only an awakened can be let out.
+
+Q: If it’s the source playing the game won’t the source let me out if it knows a soul has awakened enough to know that everything in the physical world is a trap and hates everything about it.
+A: If you still hate, that means you have not awakened and the source won’t let you out.
+
+Q: Is this system permanent or is there hope that this reincarnation system might eventually eat itself
+A: It’s semi-permanent.
+
+Q: So people with average IQs are more likely to realise there's one big consciousness, while both the dumbest and smartest are either too dumb or too smart to see it?
+A: I have no opinion.
+
 Q: "Does anyone else remember a tunnel transition like this? I'm trying to understand if this memory I have is real, or if anyone else has experienced it."
 "I used AI to try and recreate a visual of something I’ve remembered since I was really young. I'm not trying to claim it's anything spiritual or supernatural, I am just genuinely trying to understand if this memory I have is real or how a child's brain forms memories.
 My absolute earliest memory starts in a place like this video—a tunnel…
