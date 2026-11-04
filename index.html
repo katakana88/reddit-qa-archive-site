@@ -60,6 +60,8 @@ background:#f4faf7;border-radius:0 4px 4px 0;}
 .src a{color:#1a5fb4;word-break:break-all;}
 .uid{font-size:11px;color:#c2c2c2;margin:0 16px 12px;user-select:all;}
 .divider{border:none;border-top:1px solid #ddd;margin:22px 0;}
+.feature h2{margin:6px 0 10px;}
+.feature video{display:block;width:100%;aspect-ratio:16/9;background:#000;border-radius:8px;margin-bottom:18px;}
 .year h2{margin:22px 0 10px;}
 .mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:8px;}
 .mtile{display:flex;flex-direction:column;align-items:center;padding:10px 4px;border:1px solid #e3e3e3;
@@ -129,6 +131,10 @@ border:1px solid #d9d9d9;border-radius:8px;}
 </div>
 </div>
 </header>
+<section class="feature">
+<h2>The Source <span class="muted">&middot; 5 min</span></h2>
+<video controls preload="none" playsinline poster="video/the-source.jpg"><source src="video/the-source.mp4" type="video/mp4"></video>
+</section>
 <div class="toolbar">
 <input id="q" type="search" placeholder="Search all Q&amp;A…" autocomplete="off">
 <button id="sort" type="button" title="Toggle time order">Oldest first ↑</button>
@@ -182,12 +188,13 @@ border:1px solid #d9d9d9;border-radius:8px;}
 <script>
 const B=document.getElementById('q'),M=document.getElementById('months'),
 R=document.getElementById('results'),C=document.getElementById('count'),
-S=document.getElementById('sort');
+S=document.getElementById('sort'),F=document.querySelector('.feature');
 let desc=false;
 function render(){
   const q=B.value.trim().toLowerCase();
-  if(!q){M.style.display='';R.innerHTML='';C.textContent='';return;}
+  if(!q){M.style.display='';if(F)F.style.display='';R.innerHTML='';C.textContent='';return;}
   M.style.display='none';
+  if(F){F.style.display='none';F.querySelector('video').pause();}
   const src=desc?ENTRIES.slice().reverse():ENTRIES;
   const hits=src.filter(e=>e.t.indexOf(q)>=0);
   C.textContent=hits.length+' result'+(hits.length===1?'':'s');
