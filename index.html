@@ -204,8 +204,8 @@ B.addEventListener('input',render);
 S.addEventListener('click',()=>{
   desc=!desc;
   S.textContent=desc?'Newest first \u2193':'Oldest first \u2191';
-  const ul=M.querySelector('ul');
-  Array.from(ul.children).reverse().forEach(li=>ul.appendChild(li));
+  Array.from(M.querySelectorAll('section.year')).reverse().forEach(s=>M.appendChild(s));
+  M.querySelectorAll('.mgrid').forEach(g=>Array.from(g.children).reverse().forEach(t=>g.appendChild(t)));
   render();
 });
 </script>
