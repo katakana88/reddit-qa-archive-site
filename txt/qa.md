@@ -1,3 +1,23 @@
+Q: About gravity fairytale.
+A: Gravity is just an underground machine-operated field.
+Adjusting the gravity machine threshold can change the gravity levels.
+
+Q: What if we’re actually living in a kind of “sea,” and what we call “air” is really water? Could that explain gravity and buoyancy?
+A: I have been seeing this all the time since kids :-)
+Water, light water, heavy water, light-light water, heavy-heavy water - that’s how I call them, layer by layer from underground “soil” to “water” to “air level 1 / 2 /3” to “space”.
+They are all filled with different density of “waters”.
+
+Q: What is the buzzing sound people sometimes hear? Is it a hypnotic wave or an awakening wave?
+A: I have been observing them for decades.   
+They are hypnotic waves emitted from the Hypnotic Bases from underground, Moon, Mars, Saturn and some satelites.
+
+Q: Do you mean this in the literal sense (as in the game is designed where loosh is extracted to power the system in some way) or the metaphorical sense (the negative experiences & traumas keep souls from awakening & progressing out)?
+A: It's more in the literal sense.
+
+Q: How do I escape if I can master the soc ? It doesn’t really say at the end of the article ?
+A: Go to r/EscapeReincarnation to read the documents there.  
+Or go to http://awakenology.org
+
 Q: If you get rid of the hate then time totally stalls because you can’t really pass time without attaching to anything in the matrix. I have tried it the hate anger and friction is the only way to defend yourself from an uncontrollable time freeze of torture.
 A: Both time and the need to defend yourself are illusions of the game. Awakening isn’t finding a way to defend yourself from the illusion, but seeing beyond the illusions.
 
