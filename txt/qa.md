@@ -1,3 +1,6 @@
+Q: Some of the clouds you see every day might actually be UFOs.
+A: Almost everyday.
+
 Q: About gravity fairytale.
 A: Gravity is just an underground machine-operated field.
 Adjusting the gravity machine threshold can change the gravity levels.
